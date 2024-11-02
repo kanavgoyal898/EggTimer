@@ -1,4 +1,4 @@
-# EggTimer README
+# EggTimer
 
 ## Introduction
 EggTimer is a simple and intuitive iOS application designed to help you cook eggs to perfection. Whether you prefer your eggs soft, medium, or hard-boiled, EggTimer ensures they are cooked exactly the way you like them. With a user-friendly interface and a reliable timer, you can say goodbye to overcooked or undercooked eggs.
